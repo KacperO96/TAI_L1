@@ -1,13 +1,19 @@
 body {
+    width: 100%;
     background-color: grey;
 }
 
 ul{
+    background-color: black;
     padding-left: 0;
+    width: 100%;
 }
 
 li {
-    background-color: black;
     display: inline;
     color: white;
+}
+
+.content {
+    clear: both;
 }
