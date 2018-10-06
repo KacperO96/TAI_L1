@@ -1,11 +1,10 @@
 body {
-    width: 100%;
     background-color: grey;
+    width: 100%;
 }
 
 ul{
     background-color: black;
-    padding-left: 0;
     width: 100%;
 }
 
